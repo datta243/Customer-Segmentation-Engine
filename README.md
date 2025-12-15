@@ -17,21 +17,21 @@ The system helps answer key business questions:
 
 ## 📁 Project Structure
 
+│
 ├── data/
-│   ├── online_retail_II.xlsx(https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset?resource=download)
-│   ├── cleaned_retail.csv
-│   └── rfm_segmented.csv
-|
+│ ├── online_retail_II.xlsx(https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset?resource=download)
+│ ├── cleaned_retail.csv
+│ └── rfm_segmented.csv
+│
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_rfm_analysis.ipynb
-│   └── 03_clustering_segmentation.ipynb
-|
+│ ├── 01_data_cleaning.ipynb
+│ ├── 02_rfm_analysis.ipynb
+│ └── 03_clustering_segmentation.ipynb
+│
 ├── visualizations/
-│   └── customer_segmentation_plots.ipynb
+│ └── customer_segmentation_plots.ipynb
 │
 └── README.md
-
 ---
 
 ## 🛠️ Tech Stack
